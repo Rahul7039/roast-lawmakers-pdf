@@ -1,7 +1,8 @@
 # The Long Roast: Lawmakers and the File They Cannot Convert
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![Rank](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/Rahul7039/roast-lawmakers-pdf/rank.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![Reward](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/Rahul7039/roast-lawmakers-pdf/reward.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
 
 One satirical sentence, at most 320 characters, roasting lawmakers who would regulate AI, crypto or the internet but cannot convert a file to PDF.
 
